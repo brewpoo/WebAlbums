@@ -2,7 +2,7 @@
 //  WAFavoriteAlbum.h
 //  WebAlbums
 //
-//  Created by JJL on 6/20/09.
+//  Created by JJL on 7/5/09.
 //  Copyright 2009 NetGuyzApps. All rights reserved.
 //
 
