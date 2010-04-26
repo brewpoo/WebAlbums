@@ -1,0 +1,44 @@
+Add thumbnails to album view
+x Add photo date on photo list view
+
+
+
+x Add sort order for Photos
+x   Needs date or time stamp
+  
+x Add Activity Indicator to Waiting Picture
+
+x Add Toolbar to album view
+  Add to Favorites
+  
+WAGallery
+
+  
+Photo Scroll View Controller
+  Hide Bottom Bar
+  Make Translucent: Status Bar, Nav Bar, new Toolbar
+  Hide Status Bar, Nav Bar, Toolbar
+  
+  Initialize empty photoViewControllers
+  
+  Load data for current Photo and one before and after (use cached Image loader for actual UIImage in UIImageView?)
+  
+ -  Handle device rotation
+  Handle pinch zoom and double tap zoom in/zoom out
+  Single tap to show status/nav/toolbar
+  
+  On new current photo:
+    Update Nav Bar Title
+	Preload photo before and after 
+	
+ Toolbar Buttions:
+   Action Button:
+   Action Sheet:
+     Save Image
+	 Set Image as Wallpaper
+	 Email link
+	 Email Photo
+	 Cancel
+	 
+	 Add to Favorites:
+	 
